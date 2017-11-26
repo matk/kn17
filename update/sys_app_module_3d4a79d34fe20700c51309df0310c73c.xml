@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Manufacturing Change">4f4931d34fe20700c51309df0310c7dc</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Manufacturing Changes</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_roho_mfc_change_manufacturing_change</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_roho_mfc_change.man_chg</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>SXKUSMIM</sys_created_by>
+        <sys_created_on>2017-11-25 20:05:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d4a79d34fe20700c51309df0310c73c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturing Changes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_app_module_3d4a79d34fe20700c51309df0310c73c</sys_update_name>
+        <sys_updated_by>SXKUSMIM</sys_updated_by>
+        <sys_updated_on>2017-11-25 20:05:18</sys_updated_on>
+        <timeline_page/>
+        <title>Manufacturing Changes</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

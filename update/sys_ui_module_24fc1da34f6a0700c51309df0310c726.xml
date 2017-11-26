@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Manufacturing Change">b54a79d34fe20700c51309df0310c73f</application>
+        <filter/>
+        <name>Manufacturing Change Tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_roho_mfc_change.man_chg</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>SXKUSMIM</sys_created_by>
+        <sys_created_on>2017-11-26 12:35:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24fc1da34f6a0700c51309df0310c726</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturing Change Tasks</sys_name>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_ui_module_24fc1da34f6a0700c51309df0310c726</sys_update_name>
+        <sys_updated_by>SXKUSMIM</sys_updated_by>
+        <sys_updated_on>2017-11-26 12:35:38</sys_updated_on>
+        <table>x_roho_mfc_change_manufacturing_change_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

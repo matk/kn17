@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_roho_mfc_change.man_chg" name="x_roho_mfc_change.man_chg">ed09bd934fe20700c51309df0310c7ae</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>SXKUSMIM</sys_created_by>
+        <sys_created_on>2017-11-25 20:00:28</sys_created_on>
+        <sys_id>4f29fd534fe20700c51309df0310c7d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ed09bd934fe20700c51309df0310c7ae</sys_name>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4f29fd534fe20700c51309df0310c7d8</sys_update_name>
+        <sys_updated_by>SXKUSMIM</sys_updated_by>
+        <sys_updated_on>2017-11-25 20:00:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

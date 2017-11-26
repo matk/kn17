@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Manufacturing Change Task" max_length="40" name="x_roho_mfc_change_manufacturing_change_task" type="collection"/>
+</database>

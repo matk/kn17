@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Manufacturing Change process role. Can create, read and update manufacturing change records.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_roho_mfc_change.man_chg</name>
+        <suffix>man_chg</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>SXKUSMIM</sys_created_by>
+        <sys_created_on>2017-11-25 20:00:28</sys_created_on>
+        <sys_id>ed09bd934fe20700c51309df0310c7ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_roho_mfc_change.man_chg</sys_name>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_user_role_ed09bd934fe20700c51309df0310c7ae</sys_update_name>
+        <sys_updated_by>SXKUSMIM</sys_updated_by>
+        <sys_updated_on>2017-11-25 20:00:28</sys_updated_on>
+    </sys_user_role>
+</record_update>

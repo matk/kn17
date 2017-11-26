@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notes" section_id="883bb9934fe20700c51309df0310c7c7" sys_domain="global" table="x_roho_mfc_change_manufacturing_change" version="3" view="Routine">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>mfg.change</sys_created_by>
+            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
+            <sys_id>043bb9934fe20700c51309df0310c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="2dc9947c4f660300c51309df0310c753">883bb9934fe20700c51309df0310c7c7</sys_ui_section>
+            <sys_updated_by>mfg.change</sys_updated_by>
+            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>mfg.change</sys_created_by>
+            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
+            <sys_id>843bb9934fe20700c51309df0310c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="2dc9947c4f660300c51309df0310c753">883bb9934fe20700c51309df0310c7c7</sys_ui_section>
+            <sys_updated_by>mfg.change</sys_updated_by>
+            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>mfg.change</sys_created_by>
+            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
+            <sys_id>083bb9934fe20700c51309df0310c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="2dc9947c4f660300c51309df0310c753">883bb9934fe20700c51309df0310c7c7</sys_ui_section>
+            <sys_updated_by>mfg.change</sys_updated_by>
+            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_roho_mfc_change_manufacturing_change</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>mfg.change</sys_created_by>
+            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>883bb9934fe20700c51309df0310c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+            <sys_update_name>sys_ui_section_883bb9934fe20700c51309df0310c7c7</sys_update_name>
+            <sys_updated_by>mfg.change</sys_updated_by>
+            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Routine" name="Routine">2dc9947c4f660300c51309df0310c753</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

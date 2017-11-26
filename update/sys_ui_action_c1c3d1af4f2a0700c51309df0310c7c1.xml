@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>man_calc_risk</action_name>
+        <active>true</active>
+        <client>false</client>
+        <comments>Calculates risk and impact of current change request using logic in the CalculateRisk script include applied to active Risk Conditions.</comments>
+        <condition>gs.hasRole('x_roho_mfc_change') &amp;&amp; gs.getProperty('glide.ui.risk_calculate_rule') == "ui_action"</condition>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <form_style/>
+        <hint>ManChange - Calculate risk and impact of this change based on defined Risk Conditions</hint>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Calculate Manufacturing Risk</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[// This UI Action checks Risk Conditions and returns risk and impact specified by ri.risk and ri.impact
+// Labels for risk and impact are returned as ri.riskLabel and ri.impactLabel
+// Other values that are returned include Name of the rule (ri.name) and order (ri.order)
+// For validation prior to update, deactivate this UI Action and activate the Calculate Risk business rule
+
+var scr = new global.SetChangeRiskK17();
+scr.setRisk(current);
+
+current.update();
+action.setRedirectURL(current);]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>SXKUSMIM</sys_created_by>
+        <sys_created_on>2017-11-26 11:55:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c1c3d1af4f2a0700c51309df0310c7c1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Calculate Manufacturing Risk</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_ui_action_c1c3d1af4f2a0700c51309df0310c7c1</sys_update_name>
+        <sys_updated_by>SXKUSMIM</sys_updated_by>
+        <sys_updated_on>2017-11-26 12:04:28</sys_updated_on>
+        <table>x_roho_mfc_change_manufacturing_change</table>
+        <ui11_compatible>false</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

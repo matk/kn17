@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>SXKUSMIM</sys_created_by>
         <sys_created_on>2017-11-25 20:05:18</sys_created_on>
-        <sys_id>314a79d34fe20700c51309df0310c766</sys_id>
+        <sys_id>4f4029274f6a0700c51309df0310c7f6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_roho_mfc_change_manufacturing_change</sys_name>
         <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
-        <sys_update_name>sys_dictionary_x_roho_mfc_change_manufacturing_change_null</sys_update_name>
-        <sys_updated_by>SXKUSMIM</sys_updated_by>
-        <sys_updated_on>2017-11-25 20:05:18</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_roho_mfc_change_manufacturing_change_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-26 12:50:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

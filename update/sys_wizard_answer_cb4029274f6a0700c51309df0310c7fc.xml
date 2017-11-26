@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Manufacturing Change</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Manufacturing Change</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">57588c744f220300c51309df0310c7ef</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-11-26 12:50:16</sys_created_on>
+        <sys_id>cb4029274f6a0700c51309df0310c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturing Change</sys_name>
+        <sys_package display_value="Manufacturing Change" source="x_roho_mfc_change">69e87ddb4fa20700c51309df0310c7ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">69e87ddb4fa20700c51309df0310c7ff</sys_scope>
+        <sys_update_name>sys_wizard_answer_cb4029274f6a0700c51309df0310c7fc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-26 12:50:16</sys_updated_on>
+        <table/>
+        <target_url>x_roho_mfc_change_manufacturing_change.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

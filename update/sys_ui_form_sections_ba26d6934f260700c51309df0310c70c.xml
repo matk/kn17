@@ -4,16 +4,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8a69a934f260700c51309df0310c7da</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">20a69a934f260700c51309df0310c7d8</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:54:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
             <sys_created_on>2017-11-25 22:07:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fe26d6934f260700c51309df0310c70e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">b626d6934f260700c51309df0310c70b</sys_ui_section>
-            <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:07:10</sys_updated_on>
+            <sys_ui_section caption="NULL" display_value="" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">20a69a934f260700c51309df0310c7d8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:50:18</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
@@ -22,26 +36,68 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fa26d6934f260700c51309df0310c70f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:07:10</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:54:12</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
-            <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-26 12:50:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a8a69a934f260700c51309df0310c7da</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>a74069274f6a0700c51309df0310c7d0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">20a69a934f260700c51309df0310c7d8</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">803b75574fe20700c51309df0310c7f7</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:51:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-26 12:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab4069274f6a0700c51309df0310c7df</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">883b75574fe20700c51309df0310c7f4</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:51:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-26 12:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab4069274f6a0700c51309df0310c7e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">8c3b75574fe20700c51309df0310c7f5</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:51:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-11-26 12:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a74069274f6a0700c51309df0310c7f3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">c03b75574fe20700c51309df0310c7ff</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:51:19</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_roho_mfc_change_manufacturing_change</name>

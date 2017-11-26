@@ -4,28 +4,28 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>change_request_conflict_progress.xml</element>
             <position>0</position>
-            <sys_created_by>mfg.change</sys_created_by>
-            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
-            <sys_id>883b75574fe20700c51309df0310c7f6</sys_id>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:43</sys_created_on>
+            <sys_id>4c02a1a74f6a0700c51309df0310c7f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Conflict Checker Progress">f6764f93efa002008e4c36caa5c0fb67</sys_ui_formatter>
             <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">8c3b75574fe20700c51309df0310c7f5</sys_ui_section>
-            <sys_updated_by>mfg.change</sys_updated_by>
-            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:43</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>REL.change_request.REL:ebef7dc8eff002008e4c36caa5c0fb45</element>
             <position>1</position>
-            <sys_created_by>mfg.change</sys_created_by>
-            <sys_created_on>2017-11-25 20:09:17</sys_created_on>
-            <sys_id>0c3b75574fe20700c51309df0310c7f6</sys_id>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:43</sys_created_on>
+            <sys_id>0002a1a74f6a0700c51309df0310c7f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">8c3b75574fe20700c51309df0310c7f5</sys_ui_section>
-            <sys_updated_by>mfg.change</sys_updated_by>
-            <sys_updated_on>2017-11-25 20:09:17</sys_updated_on>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:43</sys_updated_on>
             <sys_user/>
             <type>list</type>
         </sys_ui_element>

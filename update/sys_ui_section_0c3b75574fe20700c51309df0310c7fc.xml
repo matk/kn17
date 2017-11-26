@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>aca69a934f260700c51309df0310c7e9</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>8002a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <text>&lt;span id="changeRequestDateMsg"&gt;${new ChangeRequestDateMessage(current).getDateMsg()}&lt;/span&gt;</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -16,13 +16,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>60a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4402a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -30,13 +30,13 @@
             <element>priority</element>
             <position>1</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>e0a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c402a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>start_date</element>
             <position>2</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>64a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4802a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>end_date</element>
             <position>3</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>e4a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c802a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>cab_required</element>
             <position>4</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>68a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4c02a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -86,13 +86,13 @@
             <element>cab_date</element>
             <position>5</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>e8a69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>cc02a1a74f6a0700c51309df0310c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -100,13 +100,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>6ca69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4002a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -114,13 +114,13 @@
             <element>state</element>
             <position>7</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>eca69a934f260700c51309df0310c7ea</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c002a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -128,13 +128,13 @@
             <element>work_start</element>
             <position>8</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>60a69a934f260700c51309df0310c7eb</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4402a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -142,13 +142,13 @@
             <element>work_end</element>
             <position>9</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>e0a69a934f260700c51309df0310c7eb</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c402a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -156,13 +156,13 @@
             <element>cab_delegate</element>
             <position>10</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>64a69a934f260700c51309df0310c7eb</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4802a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -170,29 +170,127 @@
             <element>cab_recommendation</element>
             <position>11</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>e4a69a934f260700c51309df0310c7eb</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c802a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>aca69a934f260700c51309df0310c7e9</element>
+            <element>8002a1a74f6a0700c51309df0310c7e2</element>
             <position>12</position>
             <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_id>68a69a934f260700c51309df0310c7eb</sys_id>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4c02a1a74f6a0700c51309df0310c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
             <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>cc02a1a74f6a0700c51309df0310c7e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>14</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4002a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>15</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c002a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_hold_reason</element>
+            <position>16</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4402a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>17</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c402a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>18</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>4802a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_hold_reason</element>
+            <position>19</position>
+            <sys_created_by>SXKUSMIM</sys_created_by>
+            <sys_created_on>2017-11-26 12:57:42</sys_created_on>
+            <sys_id>c802a1a74f6a0700c51309df0310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">0c3b75574fe20700c51309df0310c7fc</sys_ui_section>
+            <sys_updated_by>SXKUSMIM</sys_updated_by>
+            <sys_updated_on>2017-11-26 12:57:42</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Schedule</caption>

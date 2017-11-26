@@ -29,20 +29,6 @@
             <sys_updated_by>SXKUSMIM</sys_updated_by>
             <sys_updated_on>2017-11-25 22:07:10</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>SXKUSMIM</sys_created_by>
-            <sys_created_on>2017-11-25 22:09:12</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a8a69a934f260700c51309df0310c7da</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_roho_mfc_change_manufacturing_change" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">ba26d6934f260700c51309df0310c70c</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_roho_mfc_change_manufacturing_change" sys_domain="global" view="Default view">20a69a934f260700c51309df0310c7d8</sys_ui_section>
-            <sys_updated_by>SXKUSMIM</sys_updated_by>
-            <sys_updated_on>2017-11-25 22:09:12</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_roho_mfc_change_manufacturing_change</name>
             <roles/>
